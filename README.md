@@ -1,2 +1,2 @@
 # CS2
-CS2 Config Files
+Josh CS2 Config Files
